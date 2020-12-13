@@ -1,0 +1,19 @@
+{
+  "name": "schooltool_attendence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "content.js",
+  "scripts": {
+    "test": "node content.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyjshtml/SchooltoolWebsite.git"
+  },
+  "author": "Jack Dunfey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pyjshtml/SchooltoolWebsite/issues"
+  },
+  "homepage": "https://github.com/pyjshtml/SchooltoolWebsite#readme"
+}
